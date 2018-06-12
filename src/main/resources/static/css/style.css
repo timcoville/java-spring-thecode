@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#wrapper{
+	margin: 0 auto;
+	width: 80%;
+	font-family: sans-serif;
+	text-align:center;
+	
+}
+
+button {
+	width: 100px;
+	height: 25px;
+	margin: 20px;
+}
